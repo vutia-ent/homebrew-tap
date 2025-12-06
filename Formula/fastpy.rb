@@ -3,8 +3,8 @@ class Fastpy < Formula
 
   desc "Create production-ready FastAPI projects with one command"
   homepage "https://fastpy.ve.ke"
-  url "https://files.pythonhosted.org/packages/29/e4/75bed96a3e6f9fd6776f62b8f32ab2785f2188e7f3723a90b3baebc9eb63/fastpy_cli-1.1.4.tar.gz"
-  sha256 "a373cc2f994b1803d1576b28f6fd995a4c0f83bf738a3f771dd85ca12eac45e1"
+  url "https://files.pythonhosted.org/packages/3c/36/dae2d311811005c5d62846a13f52ed1cfc397a3cdf6b63dabdf13a2804e6/fastpy_cli-1.1.5.tar.gz"
+  sha256 "6d9b65433bdbfd45f5350c6a76de832bc376fdba78eefff9c3844177eb10e3e7"
   license "MIT"
 
   depends_on "python@3.11"
